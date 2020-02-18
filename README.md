@@ -15,3 +15,5 @@ Epochs=15.
 
 Train Accuracy = 99.47
 Test Accuracy = 98.23
+
+Caution: This code may malfunction with imbalanced input data
