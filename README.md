@@ -12,3 +12,6 @@ Optimizer: Adam.
 Loss_function: sparse_categorical_croosentropy.
 Performance metrics= accuracy.
 Epochs=15.
+
+Train Accuracy = 99.47
+Test Accuracy = 98.23
